@@ -1,13 +1,13 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Progressing Non-blocking Two-Sided Communication Using BlueField DPUs<br />Architecture of Computing Systems (ARCS); Kiel, Germany",
+    54.3227085,
+    10.135555
   ],
   [
     "Performance Comparison of MPI Collectives in Various Offloading Modes<br />IEEE International Symposium on Parallel and Distributed Computing (ISPDC); Paris, France",
-    48.8588897,
-    2.320041
+    48.8534951,
+    2.3483915
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
