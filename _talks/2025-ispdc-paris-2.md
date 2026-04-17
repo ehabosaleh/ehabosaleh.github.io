@@ -7,5 +7,4 @@ venue: "IEEE International Symposium on Parallel and Distributed Computing (ISPD
 date: 2025-07-08
 location: "Paris, France"
 ---
-
 Delivered a second presentation on using the SimGrid simulation framework to model and simulate the behavior of MPI applications in shared-memory environments, with emphasis on both memory-bound and compute-bound workloads.
