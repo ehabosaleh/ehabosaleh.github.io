@@ -10,4 +10,3 @@ location: "Paris, France"
 
 Presented research on MPI collective communication performance across various offloading strategies, with a focus on scalability and efficiency when leveraging NVIDIA BlueField DPUs to offload collectives in the UCC library.
 
-Additionally, delivered a second presentation on using the SimGrid simulation framework to model and simulate the behavior of MPI applications in shared-memory environments, with emphasis on both memory-bound and compute-bound workloads.
