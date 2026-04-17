@@ -11,8 +11,8 @@ var addressPoints = [
   ],
   [
     "Modeling NUMA Architectures as Distributed Systems for Energy Prediction of MPI Applications Using SimGrid<br />IEEE International Symposium on Parallel and Distributed Computing (ISPDC); Paris, France",
-    48.8534951,
-    2.3483915
+    48.8588897,
+    2.320041
   ],
   [
     "Modeling and Simulation of MPI Communication Dynamics in InfiniBand Networks Using SimGrid<br />PARS Workshop; Ingolstadt, Germany",
@@ -21,7 +21,7 @@ var addressPoints = [
   ],
   [
     "Performance Comparison of MPI Collectives in Various Offloading Modes<br />IEEE International Symposium on Parallel and Distributed Computing (ISPDC); Paris, France",
-    48.8534951,
-    2.3483915
+    48.8588897,
+    2.320041
   ]
 ];
