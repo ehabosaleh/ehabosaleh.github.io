@@ -20,6 +20,11 @@ var addressPoints = [
     78.6677428
   ],
   [
+    "Recent Trends in Computing Technologies<br />Jain University; Bengaluru, India",
+    12.9767936,
+    77.590082
+  ],
+  [
     "Modeling NUMA Architectures as Distributed Systems for Energy Prediction of MPI Applications Using SimGrid<br />IEEE International Symposium on Parallel and Distributed Computing (ISPDC); Paris, France",
     48.8588897,
     2.320041
