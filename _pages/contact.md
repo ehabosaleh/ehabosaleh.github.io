@@ -11,7 +11,7 @@ If you are a student, researcher, HPC enthusiast, or industry partner interested
   <input type="hidden" name="_subject" value="Message from Ehab's Website">
 
   <!-- Redirect after submit -->
-  <input type="hidden" name="_redirect" value="https://ehabosaleh.github.io/thanks/">
+  <input type="hidden" name="_next" value="https://ehabosaleh.github.io/thanks/">
 
   <label>Your Name:</label><br>
   <input type="text" name="name" required><br><br>
