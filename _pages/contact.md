@@ -3,7 +3,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-Feel free to contact me using the form below.
+If you are a student, researcher, HPC enthusiast, or industry partner interested in collaboration or discussion, feel free to contact me using the form below.
 
 <form action="https://formspree.io/f/mkokrrqg" method="POST">
 
