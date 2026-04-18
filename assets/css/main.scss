@@ -41,13 +41,21 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-input,
-textarea {
-  color: #000 !important;            /* always black text */
-  background-color: #fff !important; /* keep white background */
+.page__content input,
+.page__content textarea {
+  color: #000 !important;
+  background-color: #fff !important;
 }
 
-input::placeholder,
-textarea::placeholder {
-  color: #666; /* optional: readable placeholder */
+/* Override dark theme specifically */
+html[data-theme="dark"] .page__content input,
+html[data-theme="dark"] .page__content textarea {
+  color: #000 !important;
+  background-color: #fff !important;
+}
+
+/* Fix placeholder */
+html[data-theme="dark"] .page__content input::placeholder,
+html[data-theme="dark"] .page__content textarea::placeholder {
+  color: #666 !important;
 }
