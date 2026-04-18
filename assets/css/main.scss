@@ -41,3 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+input,
+textarea {
+  color: #000 !important;            /* always black text */
+  background-color: #fff !important; /* keep white background */
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #666; /* optional: readable placeholder */
+}
