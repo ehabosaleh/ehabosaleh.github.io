@@ -1,17 +1,25 @@
 ---
 permalink: /
-title: "Dr. Ehab Saleh"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a researcher in high-performance computing (HPC) with a focus on systems programming, communication optimization, and scalable distributed systems. My work explores how to improve performance and efficiency in modern HPC environments through system-level design and communication offloading.
 
-I am a researcher in high-performance computing (HPC) with a strong focus on systems programming, communication optimization, and scalable distributed systems. My work is driven by the challenge of enabling efficient large-scale computation under practical constraints such as cost, energy consumption, and infrastructure limitations.
-
-I began my research journey during my PhD in Computer Science and Engineering, where I explored alternative approaches to HPC in environments with limited access to traditional supercomputing resources. This led me to investigate distributed computing models inspired by volunteer computing, where large-scale computation is achieved by aggregating resources from multiple participants. To evaluate such systems, I developed simulation-based models using the SimGrid framework in C++, incorporating real-world performance datasets to ensure realistic behavior.
-
-
+## Research Focus
+- High-performance computing (HPC) and parallel systems  
+- MPI, OpenMP, and heterogeneous computing (CPU/GPU offloading)  
+- High-performance communication (RDMA, InfiniBand, UCX, UCC)  
+- System-level programming (POSIX APIs, IPC, memory management, system calls)  
+- HPC resource management and scheduling (Slurm)  
+- Smart network devices and accelerators (NVIDIA BlueField DPUs, NPUs)  
+- Performance profiling and analysis (Perf, Valgrind, LIKWID)  
+- HPC benchmarking and evaluation (MPI Benchmarks, STREAM, LINPACK, HPL)  
+- Simulation and modeling of distributed systems (SimGrid)
+- 
+## Current Position
 Since 2023, I have been a Research Associate at <a href="https://www.lrz.de" target="_blank" rel="noopener noreferrer"> Leibniz Supercomputing Centre (LRZ) </a> in Germany. My research focuses on next-generation HPC communication systems, particularly offloading communication tasks to smart network devices such as NVIDIA BlueField DPUs. This work is part of the <a href="https://www.lrz.de/en/research/research-projects/detail/scalnext" target="_blank" rel="noopener noreferrer"> ScalNEXT </a> project, where we investigate how programmable network components can improve scalability and performance of MPI-based applications. I have also contributed to modeling, simulation, and emulation of SmartNICs in InfiniBand environments and their integration into large-scale systems such as <a href="https://en.wikipedia.org/wiki/SuperMUC" target="_blank" rel="noopener noreferrer"> SuperMUC-NG </a>.
 
 In addition, I have been involved in other joint research projects exploring emerging computing technologies and system-level optimization. 
