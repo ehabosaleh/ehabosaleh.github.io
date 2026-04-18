@@ -7,7 +7,7 @@
    ========================================================================== */
 
 /* Used to set the size for <em> */
-$doc-font-size              : 12;
+$doc-font-size              : 14;
 
 /* Paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -60,8 +60,8 @@ $x-large                    : 1280px !default;
    ========================================================================== */
 
 $right-sidebar-width-narrow : auto;
-$right-sidebar-width        : 300px;
-$right-sidebar-width-wide   : 300px;
+$right-sidebar-width        : auto;
+$right-sidebar-width-wide   : auto;
 
 $susy: (
     columns: 12,
