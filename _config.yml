@@ -28,8 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Researcher specialized in HPC"
   location         : "Munich-Germany"
-  employer         : <a href='https://www.lrz.de'>LRZ</a>
-
+  employer         : "Leibniz Supercomputing Centre"
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=VpTeKn4AAAAJ"
   orcid            : "https://orcid.org/0000-0002-4950-4854"
