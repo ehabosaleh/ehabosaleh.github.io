@@ -3,7 +3,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-If you are a student, researcher, HPC enthusiast, or industry partner interested in collaboration or discussion, feel free to contact me using the form below.
+If you are a student, researcher, HPC enthusiast, or industry partner interested in collaboration or discussion, feel free to contact me using the form below or via email at <a href="mailto:ehabosaleh@gmail.com">ehabosaleh@gmail.com</a>.
 
 <form action="https://formspree.io/f/mkokrrqg" method="POST">
 
