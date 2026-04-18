@@ -18,7 +18,7 @@ I am a researcher in high-performance computing (HPC) with a focus on systems pr
 - Performance profiling and analysis (Perf, Valgrind, LIKWID)  
 - HPC benchmarking and evaluation (MPI Benchmarks, STREAM, LINPACK, HPL)  
 - Simulation and modeling of distributed systems (SimGrid)
-- 
+  
 ## Current Position
 Since 2023, I have been a Research Associate at <a href="https://www.lrz.de" target="_blank" rel="noopener noreferrer"> Leibniz Supercomputing Centre (LRZ) </a> in Germany. My research focuses on next-generation HPC communication systems, particularly offloading communication tasks to smart network devices such as NVIDIA BlueField DPUs. This work is part of the <a href="https://www.lrz.de/en/research/research-projects/detail/scalnext" target="_blank" rel="noopener noreferrer"> ScalNEXT </a> project, where we investigate how programmable network components can improve scalability and performance of MPI-based applications. I have also contributed to modeling, simulation, and emulation of SmartNICs in InfiniBand environments and their integration into large-scale systems such as <a href="https://en.wikipedia.org/wiki/SuperMUC" target="_blank" rel="noopener noreferrer"> SuperMUC-NG </a>.
 
