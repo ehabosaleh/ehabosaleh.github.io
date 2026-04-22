@@ -1,68 +1,13 @@
----
----
+/* FORCE override for ALL form fields */
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
-
-@import
-    "vendor/breakpoint/breakpoint",
-
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
-    "include/mixins",
-    "vendor/susy/susy",
-
-    "layout/reset",
-    "layout/base",
-
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
-
-    "layout/forms",
-
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
-
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
-/* GitHub-style form inputs */
-
-/* Light mode */
-.page__content form input,
-.page__content form textarea {
-  background-color: #f6f8fa !important;
-  color: #24292f !important;
-  border: 1px solid #d0d7de !important;
-  border-radius: 6px;
-  padding: 8px;
-}
-
-/* Dark mode */
-html[data-theme="dark"] .page__content form input,
-html[data-theme="dark"] .page__content form textarea {
-  background-color: #2a2a2a !important;   /* softer gray */
-  color: #e0e0e0 !important;              /* softer white */
+html[data-theme="dark"] textarea,
+html[data-theme="dark"] input,
+html[data-theme="dark"] input[type="text"],
+html[data-theme="dark"] input[type="email"],
+html[data-theme="dark"] textarea.form-control,
+html[data-theme="dark"] input.form-control {
+  background-color: #2a2a2a !important;
+  color: #e0e0e0 !important;
   border: 1px solid #444 !important;
-}
-
-/* Placeholder */
-html[data-theme="dark"] .page__content form input::placeholder,
-html[data-theme="dark"] .page__content form textarea::placeholder {
-  color: #aaa;
+  -webkit-text-fill-color: #e0e0e0 !important; /* fixes Chrome */
 }
