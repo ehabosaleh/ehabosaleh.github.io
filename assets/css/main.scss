@@ -49,3 +49,10 @@ html[data-theme="dark"] body {
   background-color: #1e1e1e !important;  /* softer dark (not black) */
   color: #e0e0e0;
 }
+
+.author__avatar img {
+  border-radius: 0 !important;
+  border: none !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+}
