@@ -25,7 +25,7 @@ author:
   # Biographic information 
   name             : "Dr. Ehab Saleh"
   pronouns         : # example: "she/her"  
-  #bio              : "Researcher specialized in HPC"
+  bio              : " "
   location         : "Munich-Germany"
   employer         : "Leibniz Supercomputing Centre"
   # Academic websites
