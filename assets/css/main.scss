@@ -57,9 +57,11 @@ html[data-theme="dark"] body {
   box-shadow: none !important;
 }
 
-.page__sidebar .author__content .author__name {
+.page__sidebar h3.author__name {
   font-family: "Times New Roman", Times, serif !important;
-  font-size: 1.6rem !important;
+  font-size: 1.2rem !important;
+  font-weight: 500 !important;
+  display: block !important;
   margin-bottom: 20px !important;
 }
 
