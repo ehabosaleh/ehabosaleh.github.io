@@ -23,7 +23,7 @@ repository: "ehabosaleh/ehabosaleh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : 
   name             : "Dr. Ehab Saleh"
   pronouns         : # example: "she/her"  
   bio              : "Researcher specialized in HPC"
@@ -104,7 +104,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "/images/profile.png"
+og_image                 :  
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
