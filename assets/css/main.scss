@@ -56,3 +56,9 @@ html[data-theme="dark"] body {
   padding: 0 !important;
   box-shadow: none !important;
 }
+
+.author__name {
+  font-family: "Times New Roman", Times, serif !important;
+  font-size: 1.4rem;      /* adjust size */
+  font-weight: 600;       /* optional */
+}
