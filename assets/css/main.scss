@@ -56,13 +56,13 @@
 /* Dark mode */
 html[data-theme="dark"] .page__content form input,
 html[data-theme="dark"] .page__content form textarea {
-  background-color: #161b22 !important;
-  color: #c9d1d9 !important;
-  border: 1px solid #30363d !important;
+  background-color: #2a2a2a !important;   /* softer gray */
+  color: #e0e0e0 !important;              /* softer white */
+  border: 1px solid #444 !important;
 }
 
 /* Placeholder */
-.page__content form input::placeholder,
-.page__content form textarea::placeholder {
-  color: #8b949e;
+html[data-theme="dark"] .page__content form input::placeholder,
+html[data-theme="dark"] .page__content form textarea::placeholder {
+  color: #aaa;
 }
