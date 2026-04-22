@@ -59,6 +59,9 @@ html[data-theme="dark"] body {
 
 .author__name {
   font-family: "Times New Roman", Times, serif !important;
-  font-size: 2rem    !important; /* adjust size */
+  font-size: 1.6rem    !important; /* adjust size */
   font-weight: 600   !important;    /* optional */
+}
+.page__sidebar .author__name {
+  margin-bottom: 20px;  /* adjust spacing */
 }
