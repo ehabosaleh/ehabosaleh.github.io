@@ -36,3 +36,16 @@ html[data-theme="dark"] input {
   color: #e0e0e0 !important;
   border: 1px solid #444 !important;
 }
+
+
+body {
+  background-color: #f6f8fa !important;  /* GitHub light */
+  color: #24292f;
+}
+
+/* ===== Page background (dark mode) ===== */
+
+html[data-theme="dark"] body {
+  background-color: #1e1e1e !important;  /* softer dark (not black) */
+  color: #e0e0e0;
+}
