@@ -1,5 +1,5 @@
 ---
-title: "Progressing Non-blocking Two-Sided Communication Using BlueField DPUs"
+title: "Performance Comparison of MPI Collectives in Various Offloading Modes"
 collection: publications
 category: conferences
 permalink: /publication/2026-dpu-collective
