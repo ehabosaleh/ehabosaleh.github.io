@@ -10,4 +10,4 @@ author: "Josef Weidendorfer, Ehab Saleh, Amir Raoofy"
 citation: "Weidendorfer, J., Saleh, E., Raoofy, A. (2026). Optimierung des Datenmanagements und des Kontrollflusses von Rechenknoten für Supercomputing (ScalNEXT). Leibniz Supercomputing Centre (LRZ). DOI: 10.34657/33166"
 ---
 
-This work investigates the use of smart networks, including programmable NICs and switches to offload communication tasks in HPC systems. The goal is to improve scalability and efficiency by shifting coordination overhead away from compute nodes toward network-level resources.
+This report investigates the use of smart networks, including programmable NICs and switches to offload communication tasks in HPC systems. The goal is to improve scalability and efficiency by shifting coordination overhead away from compute nodes toward network-level resources.
