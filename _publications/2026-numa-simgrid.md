@@ -1,7 +1,7 @@
 ---
 title: "Modeling NUMA Architectures as Distributed Systems for Energy Prediction of MPI Applications Using SimGrid"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2026-numa-simgrid
 date: 2025-07-09
 venue: "24th International Symposium on Parallel and Distributed Computing (ISPDC)"
