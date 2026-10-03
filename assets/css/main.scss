@@ -67,15 +67,8 @@ html[data-theme="dark"] body {
 
 .archive__item-title a {
   font-family: "Times New Roman", Times, serif !important;
-  font-size: 1.3rem;        
+  font-size: 1rem;        
   font-weight: 500;
   color: inherit !important; 
   text-decoration: none !important;
-}
-html {
-  font-size: 15px; /* Smaller screens */
-
-  @include breakpoint($medium) {
-    font-size: 15px; /* Screens 768px and wider */
-  }
 }
