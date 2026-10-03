@@ -73,9 +73,9 @@ html[data-theme="dark"] body {
   text-decoration: none !important;
 }
 html {
-  font-size: 18px; /* Smaller screens */
+  font-size: 15px; /* Smaller screens */
 
   @include breakpoint($medium) {
-    font-size: 20px; /* Screens 768px and wider */
+    font-size: 15px; /* Screens 768px and wider */
   }
 }
